@@ -11,8 +11,7 @@ Tee kaavio tilanteesta, missä käyttäjä luo uuden muistiinpanon ollessaan siv
 
 ![Sekvenssikaavio](04.png)
 
-## "koodi" [https://www.websequencediagrams.com/](https://www.websequencediagrams.com/) sivulle
-
+## "koodi" [www.websequencediagrams.com](https://www.websequencediagrams.com/) sivulle
 
 note right of kayttaja
 	kayttaja on sivulla /notes

@@ -5,17 +5,17 @@
 
 ![Sekvenssikaavio](04.png)
 
-[Lisäselitystä](sekvenssikaadio-04.md)
+[Lisäselitystä](sekvenssikaavio-04.md)
 
 ## 0.5 Single page app
 
 ![Sekvenssikaavio](05.png)
 
-[Lisäselitystä](sekvenssikaadio-05.md)
+[Lisäselitystä](sekvenssikaavio-05.md)
 
 ## 0.6 Uusi muistiinpano SPA:ssa
 
 ![Sekvenssikaavio](06.png)
 
-[Lisäselitystä](sekvenssikaadio-06.md)
+[Lisäselitystä](sekvenssikaavio-06.md)
 
